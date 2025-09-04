@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 I am a Ph.D. student in [Industrial & Operations Engineering (IOE)](https://ioe.engin.umich.edu/) at the University of Michigan, advised by [Prof. Raed Al Kontar](https://ioe.engin.umich.edu/people/al-kontar-raed/).
 
 My research interest lies broadly in statistical learning, generative models such as diffusion models, reinforcement learning, and their applications.
